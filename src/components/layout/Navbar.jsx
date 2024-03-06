@@ -24,6 +24,9 @@ function Navbar() {
             <a className=" hover:bg-slate-400 p-2 rounded-md" href="/blog">
               Blog
             </a>
+            <a className=" hover:bg-slate-400 p-2 rounded-md" href="/movies">
+              Movies
+            </a>
           </li>
         </ul>
       </nav>
